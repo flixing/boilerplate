@@ -37,4 +37,3 @@ Issues      https://github.com/natanocr/boilerplate/issues
 Author      Natan Oliveira
 License     MIT
 ========== ======
-git add
